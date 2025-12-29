@@ -1,0 +1,4 @@
+# Ignore raw data files so they aren't commited to the repository
+.csv
+.xlsx
+.xls
